@@ -3,3 +3,15 @@ GPIO1
 GPIO1_PortM_interrupcoes
 GPIO2
 GPIO2_feito
+*.scvd
+*.uvoptx
+*.uvprojx
+*.uvguix*
+*Listings
+*Objects
+*.dep
+*.axf
+*.htm
+*.lnp
+*.map
+*.o
